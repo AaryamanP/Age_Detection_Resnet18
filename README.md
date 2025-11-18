@@ -67,4 +67,4 @@ Below is the training and validation error over 10 epochs. The validation error 
 * `requirements.txt`: List of dependencies required to run the code.
 
 ## 👨‍💻 Author
-**AaryamanP**
+**Aaryaman Patti**
